@@ -38,3 +38,7 @@ The data is transmitted insecurely when using the File Transfer Protocol. This m
 ```
 APIs are also known as gateways or middleware because they act as a bridge between systems.
 ```
+
+```
+Sensor-Based API. This is what the internet of things also known as IOT is based on. These are actual physical senses that are interconnected with each other. The sensors can communicate through API and track and respond to physical data. Some examples are Philips hue, smart lights and node bots. 
+```
