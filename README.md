@@ -11,7 +11,8 @@ You've learned that computers need IP addresses to communicate with each other. 
 Your computer communicates over User Datagram Protocol (UDP) using the protocol with a type of server called a DHCP server. The server keeps track of computers on the network and their IP addresses. It will assign your computer an IP address and respond over the protocol to let it know which IP address to use. Once your computer has an IP address, it can communicate with other computers on the network.
 
 Domain Name System Protocol (DNS)
-Your computer needs a way to know with which IP address to communicate when you visit a website in your web browser, for example, meta.com. The Domain Name System Protocol, commonly known as DNS, provides this function. Your computer then checks with the DNS server associated with the domain name and then returns the correct IP address.
+Your computer needs a way to know with which IP address to communicate when you visit a website in your web browser, for example, meta.com. The Domain Name System Protocol, commonly known as DNS, provides this function. Your computer then checks with the DNS server associated with the domain name and then returns the correct IP address.![Screen Shot 2022-10-15 at 1 36 13 PM](https://user-images.githubusercontent.com/52090888/196002752-33de95c9-bbcf-43a4-a4cc-3bfde9a7ddf4.png)
+
 
 Internet Message Access Protocol (IMAP)
 Do you check your emails on your mobile or tablet device? Or maybe you use an email application on your computer?
@@ -49,5 +50,7 @@ Some examples are Philips hue, smart lights and node bots.
 ![Screen Shot 2022-10-15 at 10 13 55 AM](https://user-images.githubusercontent.com/52090888/195994001-c7e46d6f-9fe8-4d16-bf26-aefaaf027fa2.png)
 
 ![Screen Shot 2022-10-15 at 1 33 31 PM](https://user-images.githubusercontent.com/52090888/196002662-c24fa975-e161-4c75-8575-bfa568bf84f7.png)
+
+![Screen Shot 2022-10-15 at 1 37 06 PM](https://user-images.githubusercontent.com/52090888/196002797-68f3461b-47e1-405f-9204-6c4179e11441.png)
 
 
