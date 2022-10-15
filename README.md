@@ -54,3 +54,6 @@ Some examples are Philips hue, smart lights and node bots.
 ![Screen Shot 2022-10-15 at 1 37 06 PM](https://user-images.githubusercontent.com/52090888/196002797-68f3461b-47e1-405f-9204-6c4179e11441.png)
 
 
+[Alternatives to React](https://www.coursera.org/learn/introduction-to-front-end-development/supplement/AGPSi/alternatives-to-react)
+
+
