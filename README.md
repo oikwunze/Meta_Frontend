@@ -45,3 +45,6 @@ These are actual physical senses that are interconnected with each other.
 The sensors can communicate through API and track and respond to physical data. 
 Some examples are Philips hue, smart lights and node bots. 
 ```
+
+![Screen Shot 2022-10-15 at 10 13 55 AM](https://user-images.githubusercontent.com/52090888/195994001-c7e46d6f-9fe8-4d16-bf26-aefaaf027fa2.png)
+
