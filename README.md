@@ -59,6 +59,9 @@ Some examples are Philips hue, smart lights and node bots.
 ![Screen Shot 2022-10-16 at 10 36 46 PM](https://user-images.githubusercontent.com/52090888/196084034-828f094a-e21f-483a-b25a-893a077d5e15.png)
 
 
+## Benefit of version control
+
+![Screen Shot 2022-10-22 at 6 45 40 PM](https://user-images.githubusercontent.com/52090888/197366398-6312e0ee-8ba6-40ab-8d13-b5916bbe9674.png)
 
 
 
