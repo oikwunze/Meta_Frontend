@@ -65,6 +65,7 @@ Some examples are Philips hue, smart lights and node bots.
 
 ![Screen Shot 2022-10-22 at 7 00 01 PM](https://user-images.githubusercontent.com/52090888/197366779-7ee8b30b-dc97-49b4-a8bd-f37c39f731fe.png)
 
+![Screen Shot 2022-10-23 at 9 31 46 AM](https://user-images.githubusercontent.com/52090888/197397888-f3dbf81e-4361-4457-b99a-c9a80c1fd8ac.png)
 
 
 
